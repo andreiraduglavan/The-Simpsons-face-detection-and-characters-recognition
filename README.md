@@ -31,6 +31,7 @@ Below you can see how the detector performs on the test data. Some of them look 
 </div>
 
 <br>For further details on the solution check out the doc.
+
 <br>The libraries and versions required to run the project:
 <ul>
   <li>python==3.9.5</li>
