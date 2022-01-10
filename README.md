@@ -30,8 +30,7 @@ Below you can see how the detector performs on the test data. Some of them look 
   <img src='data/salveazaFisiere/average_precision_marge.png' width=300 float='left'>
 </div>
 
-<br>For further details on the solution check out the doc.
-
+<br><b>For further details on the solution check out the doc!</br>
 <br>The libraries and versions required to run the project:
 <ul>
   <li>python==3.9.5</li>
