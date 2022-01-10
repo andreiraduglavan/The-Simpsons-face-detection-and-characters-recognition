@@ -1,1 +1,1 @@
-# The-Simpsons-face-detection-and-characters-recognition
+# The Simpsons face detection and characters recognition
