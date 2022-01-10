@@ -20,7 +20,7 @@ Below you can see how the detector performs on the test data. Some of them look 
   <img src='data/salveazaFisiere/detections/detections_homer_simpson_9.jpg' float='right' >
 </div>
 
-<br>Finally, the best classifier got MAP of 0.87 for detections. The scores for recognition were not tha impressive. Bellow you can check out the graphs. 
+<br>Finally, the best classifier got MAP of 0.87 for detections. The scores for recognition were not that impressive. Bellow you can check out the graphs. 
 
 <div align='center' min-width=820>
   <img src='data/salveazaFisiere/average_precision_all_faces.png' width=300 float='left'>
