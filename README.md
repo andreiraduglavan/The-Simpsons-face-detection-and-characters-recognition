@@ -24,9 +24,9 @@ Finally, the best classifier got MAP of 0.87 for detections. The scores for reco
 
 
 <div align='center' min-width=820>
-  <img src='data/salveazaFisiere/average_precision_all_faces.png' width=400 float='left'>
-  <img src='data/salveazaFisiere/average_precision_bart.png' width=400 float='left'>
-  <img src='data/salveazaFisiere/average_precision_homer.png' width=400 float='left'>
-  <img src='data/salveazaFisiere/average_precision_lisa.png' width=400 float='left'>
-  <img src='data/salveazaFisiere/average_precision_marge.png' width=400 float='left'>
+  <img src='data/salveazaFisiere/average_precision_all_faces.png' width=300 float='left'>
+  <img src='data/salveazaFisiere/average_precision_bart.png' width=300 float='left'>
+  <img src='data/salveazaFisiere/average_precision_homer.png' width=300 float='left'>
+  <img src='data/salveazaFisiere/average_precision_lisa.png' width=300 float='left'>
+  <img src='data/salveazaFisiere/average_precision_marge.png' width=300 float='left'>
 </div>
